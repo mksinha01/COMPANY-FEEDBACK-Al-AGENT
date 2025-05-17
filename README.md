@@ -50,7 +50,7 @@ Then it:
 
 ## 📸 Screenshots
 
-![Workflow Screenshot](assets/A1.png)
+![Workflow Screenshot](assets/A1.jpg)
 
 ---
 
